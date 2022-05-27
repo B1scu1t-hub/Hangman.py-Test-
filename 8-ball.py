@@ -31,7 +31,7 @@ while turns > 0:
             
 
     elif userNum == 3:
-        print("3 is for frees dawggie. SHEEEEEEEEEEESH")
+        print("3 is for frees")
         break
             
 
