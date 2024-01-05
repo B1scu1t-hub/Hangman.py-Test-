@@ -14,7 +14,7 @@ print("Ight bro ur gonna get wrecked. Best of luck" + " " + name + "!")
 #print('Enter number')
 userNum = int(input('Put a number in my dude'))
 
-turns = 5
+turns = 22
 
 while turns > 0:
 
